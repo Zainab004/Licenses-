@@ -8,3 +8,6 @@ It is a specific implementation of his "copyleft" concept. According to Stallman
 The GPL itself is under copyright notice by the Free Software Foundation (FSF), a tax-exempt charitable organization founded by Stallman's GNU project in order to generate funding for free software development.
 APACHE=
 The Apache License is a permissive free software license written by the Apache Software Foundation (ASF).[4] It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties. The ASF and its projects release their software products under the Apache License. The license is also used by many non-ASF projects.
+
+Free and open source software is a term used to refer groups of software consisting of both free software and open source software
+
